@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.WebAPI/customEditorServer.WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/customEditorServer.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/customEditorServer.Business.csproj",
+        "projectName": "customEditorServer.Business",
+        "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/customEditorServer.Business.csproj",
+        "packagesPath": "/Users/muraterennar/.nuget/packages/",
+        "outputPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muraterennar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj"
+              },
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj",
+        "projectName": "customEditorServer.Core",
+        "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj",
+        "packagesPath": "/Users/muraterennar/.nuget/packages/",
+        "outputPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muraterennar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj",
+        "projectName": "customEditorServer.DataAccess",
+        "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj",
+        "packagesPath": "/Users/muraterennar/.nuget/packages/",
+        "outputPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muraterennar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj"
+              },
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj",
+        "projectName": "customEditorServer.Entity",
+        "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj",
+        "packagesPath": "/Users/muraterennar/.nuget/packages/",
+        "outputPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muraterennar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Core/customEditorServer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.WebAPI/customEditorServer.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.WebAPI/customEditorServer.WebAPI.csproj",
+        "projectName": "customEditorServer.WebAPI",
+        "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.WebAPI/customEditorServer.WebAPI.csproj",
+        "packagesPath": "/Users/muraterennar/.nuget/packages/",
+        "outputPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muraterennar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/customEditorServer.Business.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Business/customEditorServer.Business.csproj"
+              },
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.DataAccess/customEditorServer.DataAccess.csproj"
+              },
+              "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj": {
+                "projectPath": "/Users/muraterennar/Desktop/CustomEditorProjects/Server/customEditorServer.Entity/customEditorServer.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

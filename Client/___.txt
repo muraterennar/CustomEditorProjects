@@ -1,0 +1,19 @@
+- bootstrap@5.3.0
+- remixicon
+- json-server
+
+
+-- Services --
+. custom-http-client service
+. image-upload service
+. custom-editor service 
+. blog-service
+
+-- Bağımlılıklar --
+. editor.directive => imageUploadService:ImageUploadService
+. editor.directive => _renderer: Renderer2
+. editor.directive => element: ElementRef,
+. editor.directive => CustomCreateElements (enum)
+. editor.directive => CustomElementIcon (enum)
+. custom-editor module => CustomDirectivesModule
+.image-upload service => httpClient

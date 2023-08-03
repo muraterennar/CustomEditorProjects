@@ -1,0 +1,15 @@
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/bin/Debug/net6.0/customEditorServer.Entity.deps.json
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/bin/Debug/net6.0/customEditorServer.Entity.dll
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/bin/Debug/net6.0/customEditorServer.Entity.pdb
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/bin/Debug/net6.0/customEditorServer.Core.dll
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/bin/Debug/net6.0/customEditorServer.Core.pdb
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.csproj.AssemblyReference.cache
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.AssemblyInfoInputs.cache
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.AssemblyInfo.cs
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.csproj.CoreCompileInputs.cache
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.csproj.CopyComplete
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.dll
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/refint/customEditorServer.Entity.dll
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/customEditorServer.Entity.pdb
+/Users/muraterennar/Projects/customEditorServer/customEditorServer.Entity/obj/Debug/net6.0/ref/customEditorServer.Entity.dll

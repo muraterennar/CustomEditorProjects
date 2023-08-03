@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0cSbKD9a6RzRq7k+8p1Vho+wzu3U4pgrJdp5KcvxZhE=",
+  "Source": "customEditorServer.WebAPI",
+  "BasePath": "_content/customEditorServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "customEditorServer.WebAPI/wwwroot",
+      "Source": "customEditorServer.WebAPI",
+      "ContentRoot": "/Users/muraterennar/Projects/customEditorServer/customEditorServer.WebAPI/wwwroot/",
+      "BasePath": "_content/customEditorServer.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

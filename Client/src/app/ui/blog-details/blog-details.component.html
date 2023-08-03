@@ -1,0 +1,7 @@
+<div class="m-4">
+    <h1>{{blog?.blogTitle}}</h1>
+    <span><b class="text-warning">{{blog?.categoryName}}</b></span>
+    <div class="container" [innerHTML]="blog?.blogDescription"></div>
+    <button type="button" class="btn btn-outline-danger d-block m-auto w-50"
+        (click)="deleteBlog(blog?.id)">Delete</button>
+</div>

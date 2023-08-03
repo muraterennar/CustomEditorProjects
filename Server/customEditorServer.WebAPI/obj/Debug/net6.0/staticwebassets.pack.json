@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/muraterennar/Projects/customEditorServer/customEditorServer.WebAPI/wwwroot/project-img/2de7da66-c070-4969-bfbf-619098a180f1.jpg",
+      "PackagePath": "staticwebassets/project-img/2de7da66-c070-4969-bfbf-619098a180f1.jpg"
+    },
+    {
+      "Id": "/Users/muraterennar/Projects/customEditorServer/customEditorServer.WebAPI/wwwroot/project-img/2f1938df-fc8d-446e-96b2-49aef553babb.jpg",
+      "PackagePath": "staticwebassets/project-img/2f1938df-fc8d-446e-96b2-49aef553babb.jpg"
+    },
+    {
+      "Id": "/Users/muraterennar/Projects/customEditorServer/customEditorServer.WebAPI/wwwroot/project-img/ee608a41-14b6-42e1-a8b6-d8529f30708e.mov",
+      "PackagePath": "staticwebassets/project-img/ee608a41-14b6-42e1-a8b6-d8529f30708e.mov"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.customEditorServer.WebAPI.props",
+      "PackagePath": "build\\customEditorServer.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.customEditorServer.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\customEditorServer.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.customEditorServer.WebAPI.props",
+      "PackagePath": "buildTransitive\\customEditorServer.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.customEditorServer.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

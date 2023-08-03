@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\customEditorServer.Core\customEditorServer.Core.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Remove="Concreate\" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Concreate\" />
+	</ItemGroup>
+</Project>

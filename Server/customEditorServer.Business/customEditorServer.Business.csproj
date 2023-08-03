@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+	  <None Remove="Concreate\" />
+	  <None Remove="Abstract\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Concreate\" />
+	  <Folder Include="Abstract\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\customEditorServer.Entity\customEditorServer.Entity.csproj" />
+	  <ProjectReference Include="..\customEditorServer.DataAccess\customEditorServer.DataAccess.csproj" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+<!-- #region Angular Editor  -->
+<div class="container" customEditor>
+
+    <div class="row g-3 align-items-center justify-content-center m-4">
+        <div class="col-2">
+            <label for="inputBlogTitle" class="col-form-label">Blog Title</label>
+        </div>
+        <div class="col-10">
+            <input type="text" name="blog-title" class="form-control" id="inputBlogTitle">
+        </div>
+    </div>
+
+    <div class="row g-3 align-items-center justify-content-center mt-4 mb-4">
+        <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Categories</label>
+        </div>
+        <div class="col-auto">
+            <select id="select_category" class="form-select">
+                <option selected value="" disabled>Select a category</option>
+                <option [value]="bCat.id" *ngFor="let bCat of blogCat">{{bCat.categoryName}}</option>
+            </select>
+        </div>
+    </div>
+
+
+    <div id="editor" class="editor-container p-3 mt-4 border"></div>
+    <button type="button" id="createBlog" class="d-block w-75 shadow mx-auto btn btn-secondary mt-4 mb-4">Oluştur</button>
+    <hr>
+    <div id="testText"></div>
+</div>
+<!-- #endregion -->
