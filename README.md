@@ -51,7 +51,7 @@ Umarım bu proje sizi de heyecanlandırır ve değerli görüşlerinizi bekliyor
 
 ## 🌄 Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü]([https://firebasestorage.googleapis.com/v0/b/file-upload-firebase-d3899.appspot.com/o/portFolioAPIPictures%2F1691057540361__EkranResmi2023080310.52.31.png?alt=media&token=2da15a00-cadb-4512-98c3-06b8a30c85af](https://firebasestorage.googleapis.com/v0/b/file-upload-firebase-d3899.appspot.com/o/portFolioAPIPictures%2F1691057665713__EkranResmi2023080313.10.25.png?alt=media&token=031773aa-950f-4d29-a7d6-e2ba9051566a)https://firebasestorage.googleapis.com/v0/b/file-upload-firebase-d3899.appspot.com/o/portFolioAPIPictures%2F1691057665713__EkranResmi2023080313.10.25.png?alt=media&token=031773aa-950f-4d29-a7d6-e2ba9051566a)
+![Uygulama Ekran Görüntüsü](https://firebasestorage.googleapis.com/v0/b/file-upload-firebase-d3899.appspot.com/o/portFolioAPIPictures%2F1691057665713__EkranResmi2023080313.10.25.png?alt=media&token=031773aa-950f-4d29-a7d6-e2ba9051566a)
 
   
 ## 🌐 Canlı Demo
