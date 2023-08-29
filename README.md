@@ -38,7 +38,7 @@ Modülerlik ve Genişletilebilirlik: Katmanlı mimari, projeyi modüler ve gelec
 Kalite ve Performans: Kod kalitesine ve uygulamanın hızlı çalışmasına özen gösterdik.
 💪 Açık Kaynak ve Katkılar:
 
-Proje açık kaynaklıdır ve her türlü katkıya açıktır. GitHub deposuna giderek projeye katkıda bulunabilir, sorunları rapor edebilir veya yeni özellik önerilerinde bulunabilirsiniz. Sizinle birlikte projeyi daha da geliştirmek için sabırsızlanıyorum!
+Proje açık kaynaklıdır ve her türlü katkıya açıktır. GitHub deposuna giderek projeye katkıda bulunabilir, sorunları rapor edebilir veya yeni özellik önerilerinde bulunabilirsiniz.
 
 👉 Proje GitHub Adresi: https://github.com/muraterennar/CustomEditorProjects
 
